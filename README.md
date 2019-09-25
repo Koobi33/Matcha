@@ -48,7 +48,7 @@ if you use docker-machine or your host is differ from "localhost" change:
 ## Build and Run
 
 ```
-git clone https://github.com/AndreiSukharev/Matcha.git matcha
+git clone https://github.com/Koobi33/Matcha.git matcha
 cd matcha
 docker-compose up --build
 sh dbGPS.sh
